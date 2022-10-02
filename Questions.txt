@@ -8,4 +8,6 @@
 4. It checks for changes/updates to any models and
 serves to update/integrate them into the database.
 
-5.
+5. I see all the models; by registering the models to the admin
+with admin.site.register(MODEL).
+
