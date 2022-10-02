@@ -1,0 +1,6 @@
+1. https://github.com/moxil-shah/Lab4-CMPUT404
+
+2. The browser shows me the default django message on port
+8000, "The install worked successfully! Congratulations!"
+
+3.
