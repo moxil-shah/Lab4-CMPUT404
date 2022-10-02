@@ -4,3 +4,8 @@
 8000, "The install worked successfully! Congratulations!"
 
 3. Page not found (404)
+
+4. It checks for changes/updates to any models and
+serves to update/integrate them into the database.
+
+5.
