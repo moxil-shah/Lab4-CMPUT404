@@ -16,3 +16,8 @@ You're voting on question 38. If I use a string, I get 404 page not found.
 
 Change int to str to allow for any characters.
 
+7. hardcoding urls means it won't work if we change the path later on.
+
+8. Django does the hard work for us underneath the hood.
+Hence, I should use generic views for when there's a time constraint.
+I should not use generic views if I want to implent a special feature that the django view can't support.
