@@ -3,4 +3,4 @@
 2. The browser shows me the default django message on port
 8000, "The install worked successfully! Congratulations!"
 
-3.
+3. Page not found (404)
