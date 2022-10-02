@@ -11,3 +11,8 @@ serves to update/integrate them into the database.
 5. I see all the models; by registering the models to the admin
 with admin.site.register(MODEL).
 
+6. You're looking at question 38; You're looking at the results of question 38;
+You're voting on question 38. If I use a string, I get 404 page not found.
+
+Change int to str to allow for any characters.
+
